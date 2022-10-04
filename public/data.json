@@ -1,0 +1,74 @@
+{
+  "currentUser": {
+    "image": {
+      "png": "./images/avatars/image-juliusomo.png",
+      "webp": "./images/avatars/image-juliusomo.webp"
+    },
+    "username": "Марлен",
+    "id": "34jjj423fff2343fg"
+  },
+  "comments": [
+    {
+      "content": "Привет всем! ",
+      "createdAt": "2021-12-21T18:59:40.678Z",
+      "score": [
+        "34jjj423fff2343fg"
+      ],
+      "user": {
+        "image": {
+          "png": "./images/avatars/image-juliusomo.png",
+          "webp": "./images/avatars/image-juliusomo.webp"
+        },
+        "username": "Марлен",
+        "id": "34jjj423fff2343fg"
+      },
+      "replies": [
+        {
+          "content": "Хей и Хай!",
+          "createdAt": "2021-12-21T19:52:53.186Z",
+          "score": [],
+          "user": {
+            "image": {
+              "png": "./images/avatars/image-juliusomo.png",
+              "webp": "./images/avatars/image-juliusomo.webp"
+            },
+            "username": "Марлен",
+            "id": "34jjj423fff2343fg"
+          },
+          "id": "2191ac94-e4cc-48e0-8555-925a59b0086a"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "content": "Наконец - то мы добились своего! Потратили целых два часа(((. Я устал и хочу спать, завтра вылетаем в Бишкек. До встречи уже в Бишкеке!",
+      "createdAt": "2021-12-21T19:50:56.178Z",
+      "score": [],
+      "user": {
+        "image": {
+          "png": "./images/avatars/image-juliusomo.png",
+          "webp": "./images/avatars/image-juliusomo.webp"
+        },
+        "username": "Марлен",
+        "id": "34jjj423fff2343fg"
+      },
+      "replies": [],
+      "id": 2
+    },
+    {
+      "content": "Слава Украине!",
+      "createdAt": "2021-12-21T19:53:30.792Z",
+      "score": [],
+      "user": {
+        "image": {
+          "png": "./images/avatars/image-juliusomo.png",
+          "webp": "./images/avatars/image-juliusomo.webp"
+        },
+        "username": "Марлен",
+        "id": "34jjj423fff2343fg"
+      },
+      "replies": [],
+      "id": 3
+    }
+  ]
+}

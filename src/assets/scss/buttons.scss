@@ -1,0 +1,19 @@
+.btn-primary {
+	font-family: "Rubik", sans-serif;
+	border: none;
+	border-radius: 5px;
+	outline: none;
+	min-width: 104px;
+	height: 48px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 0 20px;
+	background-color: $moderate-blue;
+	color: $white;
+	cursor: pointer;
+	transition: 0.2s;
+	&:hover {
+		opacity: 0.5;
+	}
+}
